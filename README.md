@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Yusuf Göktaş</h1>
-<h3 align="center">Computer Engineering student at Selcuk University</h3>
+<h3 align="center">Computer Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/01/78/65/02/360_F_178650212_oePgGaIhKUhz0cIg2bLBGsFsdbWs5Xwj.jpg">
 
 
